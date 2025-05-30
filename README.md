@@ -1,4 +1,4 @@
-### Rock Paper Scissor GIT Repository ###
+### Rock Paper Scissors GIT Repository ###
 
 ```
 This repository contains the code for my Rock Paper Scissors game.
