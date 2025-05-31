@@ -7,7 +7,7 @@ Rock Paper Scissors game made famous by "The Big Bang Theory." It includes
 support for five choices: rock, paper, scissors, lizard, and spock.
 
 Features:
-- Accepts both full and short-form user input (e.g., 'r' for rock, 'sc' for scissors)
+- Accepts both full and short-form user input ('r' for rock, etc)
 - Tracks and displays player vs. computer results
 - Declares a Grand Winner when a player reaches 5 wins
 - Persists round history to a JSON file for long-term game tracking
