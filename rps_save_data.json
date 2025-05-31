@@ -123,5 +123,75 @@
         "user_choice": "rock",
         "computer_choice": "lizard",
         "result": "win"
+    },
+    {
+        "user_choice": "rock",
+        "computer_choice": "lizard",
+        "result": "win"
+    },
+    {
+        "user_choice": "scissors",
+        "computer_choice": "rock",
+        "result": "lose"
+    },
+    {
+        "user_choice": "paper",
+        "computer_choice": "spock",
+        "result": "win"
+    },
+    {
+        "user_choice": "paper",
+        "computer_choice": "spock",
+        "result": "win"
+    },
+    {
+        "user_choice": "paper",
+        "computer_choice": "spock",
+        "result": "win"
+    },
+    {
+        "user_choice": "paper",
+        "computer_choice": "scissors",
+        "result": "lose"
+    },
+    {
+        "user_choice": "paper",
+        "computer_choice": "paper",
+        "result": "tie"
+    },
+    {
+        "user_choice": "paper",
+        "computer_choice": "scissors",
+        "result": "lose"
+    },
+    {
+        "user_choice": "paper",
+        "computer_choice": "spock",
+        "result": "win"
+    },
+    {
+        "user_choice": "lizard",
+        "computer_choice": "lizard",
+        "result": "tie"
+    },
+    {
+        "user_choice": "scissors",
+        "computer_choice": "lizard",
+        "result": "win"
+    },
+    {
+        "user_choice": "lizard",
+        "computer_choice": "lizard",
+        "result": "tie"
+    },
+    {
+        "user_choice": "spock",
+        "computer_choice": "spock",
+        "result": "tie"
+    },
+    {
+        "user_choice": "spock",
+        "computer_choice": "paper",
+        "result": "lose"
     }
 ]

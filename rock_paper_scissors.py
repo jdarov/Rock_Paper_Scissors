@@ -182,6 +182,9 @@ def main():
         print(f"\n==== ROUND {round_number} ====")
 
         player_choice = get_valid_player_choice()
+        if player_choice in END_PROGRAM:
+            break
+        
         computer_choice = random.choice(VALID_CHOICES)
 
         result = display_winner(player_choice, computer_choice)
