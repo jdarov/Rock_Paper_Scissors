@@ -8,7 +8,7 @@ import json
 import os
 
 FILE_NAME = 'rps_save_data.json'
-VALID_CHOICES = ['rock', 'paper', 'scissors']
+VALID_CHOICES = ['rock', 'paper', 'scissors', 'lizard', 'spock']
 VALID_RESULTS = ['win', 'lose', 'tie']
 
 def load_saved_data():
